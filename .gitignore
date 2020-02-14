@@ -1,2 +1,1 @@
-AWS/networking/.terraform/*
-AWS/storage/.terraform/*
+**/.terraform/*
