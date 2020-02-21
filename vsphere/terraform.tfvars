@@ -1,9 +1,9 @@
 # vCenter connection
-vsphere_vcenter = "t03ppd-infvc03.qateradatacloud.com"
+vsphere_vcenter = 
 
-vsphere_user = "pankaj.sharma2"
+vsphere_user = 
 
-vsphere_password = "teradata@123"
+vsphere_password = 
 
 vsphere_unverified_ssl = "true"
 
