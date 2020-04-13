@@ -31,14 +31,14 @@ vsphere_datastore = "ds-00001-01"
 
 vsphere_port_group = "dvpg-00001"
 
-vsphere_ipv4_address = "10.88.51.150"
+vsphere_ipv4_address = "10.xx.51.150"
 
 vsphere_ipv4_netmask = "24"
 
-vsphere_ipv4_gateway = "10.88.51.254"
+vsphere_ipv4_gateway = "10.xx.51.254"
 
-vsphere_dns_servers = "10.88.40.101"
+vsphere_dns_servers = "10.xx.40.101"
 
-vsphere_domain = "qateradatacloud.com"
+vsphere_domain = "com"
 
 vsphere_time_zone = "UTC"
